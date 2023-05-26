@@ -1,5 +1,5 @@
 ### 简介
-<MES>是一款基于ElasticSearch实现的船用设备信息检索引擎。
+MES是一款基于ElasticSearch实现的船用设备信息检索引擎。
 
 ### 主要技术栈
 + Scrapy
